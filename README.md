@@ -2,7 +2,7 @@
 
 Welcome to the BCD to Seven-Segment Display Clock project repository! This project combines the power of Verilog with Python to create a digital clock that simulates a seven-segment display using Binary-Coded Decimal (BCD). Ideal for students and hobbyists interested in digital electronics and embedded system design.
 
-![Clock Display](images/clock-display.png)
+![Clock Display](images/clock.png)
 
 ## Overview
 
